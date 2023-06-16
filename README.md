@@ -1,4 +1,4 @@
-# README
+# (UNROCA) United Nations Register of Conventional Arms -- Scraper
 
 * Install python `scrapy` and `bs4`
 * Run `python3 scraper.py`
